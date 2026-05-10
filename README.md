@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Stake Mines Bot](https://github.com/JDMEXX/stake-mines-bot/blob/main/Stake%20Mines%20Interface.png)
+![Stake Mines Bot](https://github.com/JDMEXX/stake-mines-bot/blob/main/Stake%20Mines%20Screenshot.png)
 
 </div>
 
